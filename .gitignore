@@ -1,5 +1,5 @@
 HELP.md
-notes.md
+/notes.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
@@ -30,3 +30,4 @@ build/
 
 ### VS Code ###
 .vscode/
+!/notes.md
